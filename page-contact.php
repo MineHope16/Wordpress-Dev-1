@@ -1,0 +1,1 @@
+<?php /* Template Name: Contact */ get_header(); ?><div class="container" style="padding:24px 0;"><h1>Contact Us</h1><p>Shop No.1 & 2, Jambhale Bldg, Chinchpada, Tal. Pen, Dist. Raigad, 402107</p><p>Phone: 7276494896 / 7276490946 / 9209401932</p><p>No contact email form included as requested.</p></div><?php get_footer(); ?>
